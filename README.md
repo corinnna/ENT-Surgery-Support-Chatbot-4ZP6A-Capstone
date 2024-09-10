@@ -2,7 +2,7 @@
 ### Capstone Project Repository for 4ZP6A
 ---
 #### Desired Topic:
-Language Model for an ENT Surgery Chatbot Lin (Topic #14)  
+Language Model for an ENT Surgery Chatbot Lin (Topic #15)  
 Supervised by Dr. Denise Geiskkovitch (geiskkod@mcmaster.ca) and Dr. Charles Welch
 
 #### Project Description:
