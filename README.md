@@ -4,7 +4,7 @@
 #### Topic:
 ENT-Surgery-Support-Chatbot  
 Supervised by Dr. Denise Geiskkovitch (geiskkod@mcmaster.ca), Dr. Charles Welch (cwelch@mcmaster.ca), and Dr. Mehdi Moradi (moradm4@mcmaster.ca)  
-In collaboration with Dr. Benjamin van der Woerd  
+In collaboration with Dr. Benjamin van der Woerd (vanderw@mcmaster.ca)
 
 Note: This topic is a merge between two of the listed potential projects: Language Model for an ENT Surgery Chatbot (Topic #15) and Chatbot Application for ENT Surgery Patients (Topic #14)
 
