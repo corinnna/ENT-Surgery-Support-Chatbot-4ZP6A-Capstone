@@ -1,6 +1,6 @@
 # Meeting 1
 
-#### Monday September 23, 2024 @ 12:30-1pm
+#### Monday September 23, 2024 @ 12:30 - 1pm
 
 ### Attendees
 Dr. Denise Geiskkovitch (geiskkod@mcmaster.ca)  
