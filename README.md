@@ -25,3 +25,15 @@ Corinna Lin - linc94@mcmaster.ca
 Deluckshan Murugesu - murugesd@mcmaster.ca  
 Donyasadat Zolfaghari- zolfaghd@mcmaster.ca  
 Ben Weeks - weeksb1@mcmaster.ca  
+
+----
+#### Navigation
+
+1. docs: 
+    - here you'll find all of our submitted documents
+
+2. meetings:
+    - here you'll find summaries and notes of all our meetings
+
+3. src:
+    - here you'll find all of our source code

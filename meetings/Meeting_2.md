@@ -16,11 +16,11 @@ Ben Weeks (weeksb1@mcmaster.ca)
 
 ## Items Covered
 1. Informed Consent and Scalability in Medicine
-2. Goal
-3. Login System and Logging
+2. Overall Goal and Some Project Specifications
+3. Logging and Login System
 4. Data and Security
 5. Testing
-6. Documentation
+6. Legal/Functional Requirements and Documentation
 
 ---
 
