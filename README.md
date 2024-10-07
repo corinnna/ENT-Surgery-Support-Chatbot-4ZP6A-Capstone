@@ -30,7 +30,7 @@ Ben Weeks - weeksb1@mcmaster.ca
 #### Navigation
 
 1. docs: 
-    - here you'll find all of our submitted documents
+    - here you'll find all of our submitted documents and our contribution specifications
 
 2. meetings:
     - here you'll find summaries and notes of all our meetings
